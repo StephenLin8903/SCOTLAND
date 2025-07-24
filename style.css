@@ -5,3 +5,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.hero.text{
+  color: whitesmoke;
+  position: absolute;
+  top: 200px;
+}

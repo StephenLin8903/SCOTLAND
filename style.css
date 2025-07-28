@@ -23,4 +23,7 @@
     display: grid;
     grid: template columns 1fr 1fr;
     gap: 50px;
+    width: 80px;
+    margin: auto;
+    margin-top: 40px;
 }

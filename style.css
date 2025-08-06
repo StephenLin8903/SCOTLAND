@@ -47,9 +47,10 @@ img{
 }
 
 .card{
-    background-color: rgb(0,  0, 140);
+    background-color: blue;
 }
 
 .card-text{
     text-align: center;
+    color:whitesmoke;
 } 
